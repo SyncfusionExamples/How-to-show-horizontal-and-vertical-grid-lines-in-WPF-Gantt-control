@@ -108,6 +108,8 @@ MainWindow.xaml.cs
         }
 ```
 
+KB article - [How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-control](https://www.syncfusion.com/kb/11800/how-to-show-horizontal-and-vertical-grid-lines-in-wpf-gantt-control)
+
 ## See also
 
 [To add custom tooltip to gantt](https://help.syncfusion.com/wpf/gantt/customtooltip)
