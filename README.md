@@ -1,6 +1,6 @@
 # How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-control
 
-This article explains how to show horizontal and vertical grid lines in Syncfusion WPF Gantt control, as shown in below.
+This article explains how to show horizontal and vertical grid lines in Syncfusion [WPF Gantt](https://www.syncfusion.com/wpf-controls/gantt?utm_source=github&utm_medium=listing&utm_campaign=wpf-gantt-github-samples) control, as shown in below.
 
 ![Horizontal and vertical lines](Outputs/HorizontalAndVerticalLines.png) 
 
@@ -108,15 +108,15 @@ MainWindow.xaml.cs
         }
 ```
 
-KB article - [How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-control](https://www.syncfusion.com/kb/11800/how-to-show-horizontal-and-vertical-grid-lines-in-wpf-gantt-control)
+KB article - [How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-control](https://support.syncfusion.com/kb/article/10135/how-to-show-horizontal-and-vertical-grid-lines-in-wpf-gantt-control)
 
 ## See also
 
-[To add custom tooltip to gantt](https://help.syncfusion.com/wpf/gantt/customtooltip)
+[To add custom tooltip to gantt](https://help.syncfusion.com/wpf/gantt/custom-tooltip?utm_source=github&utm_medium=listing&utm_campaign=wpf-gantt-github-samples)
 
-[To define your own schedule for Gantt to track the progress of projects](https://help.syncfusion.com/wpf/gantt/custom-schedule)
+[To define your own schedule for Gantt to track the progress of projects](https://help.syncfusion.com/wpf/gantt/custom-schedule?utm_source=github&utm_medium=listing&utm_campaign=wpf-gantt-github-samples)
 
-[To differentiate the dates of holidays](https://help.syncfusion.com/wpf/gantt/holidays-customization)
+[To differentiate the dates of holidays](https://help.syncfusion.com/wpf/gantt/holidays-customization?utm_source=github&utm_medium=listing&utm_campaign=wpf-gantt-github-samples)
 
 
 
