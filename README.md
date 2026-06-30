@@ -108,7 +108,7 @@ MainWindow.xaml.cs
         }
 ```
 
-KB article - [How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-control](https://support.syncfusion.com/kb/article/10135/how-to-show-horizontal-and-vertical-grid-lines-in-wpf-gantt-control)
+KB article - [How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-control](https://support.syncfusion.com/kb/article/10135/how-to-show-horizontal-and-vertical-grid-lines-in-wpf-gantt-control?utm_source=github&utm_medium=listing&utm_campaign=wpf-gantt-github-samples)
 
 ## See also
 
