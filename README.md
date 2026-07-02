@@ -1,6 +1,6 @@
 # How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-control
 
-This article explains how to show horizontal and vertical grid lines in Syncfusion WPF Gantt control, as shown in below.
+This article explains how to show horizontal and vertical grid lines in [WPF Gantt control](https://www.syncfusion.com/wpf-controls/gantt), as shown in below.
 
 ![Horizontal and vertical lines](Outputs/HorizontalAndVerticalLines.png) 
 
@@ -112,7 +112,9 @@ KB article - [How-to-show-horizontal-and-vertical-grid-lines-in-WPF-Gantt-contro
 
 ## See also
 
-[To add custom tooltip to gantt](https://help.syncfusion.com/wpf/gantt/customtooltip)
+[Explore WPF Gantt Chart](https://www.syncfusion.com/wpf-controls/gantt)
+
+[To add custom tooltip to gantt](https://help.syncfusion.com/wpf/gantt/custom-tooltip)
 
 [To define your own schedule for Gantt to track the progress of projects](https://help.syncfusion.com/wpf/gantt/custom-schedule)
 
